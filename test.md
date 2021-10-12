@@ -40,7 +40,7 @@ MM----------------------------------------------MM
 WW----------------------------------------------WW
 </pre>
 
-<br><br>
+<br>
 
 <p align="center">
 <img alt = "GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Log">  
