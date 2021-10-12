@@ -1,16 +1,68 @@
-### Hi there 👋
 
-<!--
-**Cyber-log/Cyber-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><div align="center"><b>
 
-Here are some ideas to get you started:
+> WELCOME TO MY GITHUB👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</b><br></div>
+
+<pre>
+MM----------------------------------------------MM
+||                                              ||
+||              MM--------------MM              ||
+||              || HELLO PEOPLE ||              ||
+||              WW--------------WW              ||
+||                                              ||
+||                                              ||
+||                 INTRODUCTION                 ||
+||               M--------------M               ||
+||                                              ||
+|| --> I'm AL-JABIR From CYBER-LOG🥳            ||
+|| --> I'm a Student✍️                          ||
+|| --> And I'm a Part-Time Programmer💻         ||
+|| --> I'm Learning About Hacking & Pentesting🛡||
+||                                              ||
+||                                              ||
+|| MM----------------------------------------MM ||
+|| ||                @     @                 || ||
+|| ||                   ^       <a href="https://www.facebook.com/al.jabir.543">@CYBER-LOG</a>   || ||
+|| ||                 _____                  || ||
+|| WW----------------------------------------WW ||
+||                                              || 
+||                                              ||
+||                 <b>CYBER-LOG</b>                    ||
+||               M-----------M                  ||
+||                                              ||
+|| MM----------------------------------------MM ||
+|| ||    Hack The Cyber As Much As You Can   || ||
+|| WW----------------------------------------WW ||
+||                                              ||
+||                                              ||
+||                CONTACT INFO                  ||
+||              M---------------M               ||
+||                                              ||
+||   FB       :       <a href="https://www.facebook.com/al.jabir.543">Link</a>                      ||
+||   GitHub   :       <a href="https://github.com/Cyber-Log">Link</a>                      ||
+||   Telegram :   +8801834918718                ||
+||                                              ||
+WW----------------------------------------------WW
+</pre>
+
+<br>
+
+<p align="center">
+<img alt = "GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Log">  
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cyber-Log&show_icons=true&theme=radical">
+
+
+
+<div align="center"><b><br>
+
+> PROFILE VISITORS
+
+<img src="https://profile-counter.glitch.me/{Cyber-Log}/count.svg"/>
+
+
+ </b>
+
+</div>
+
