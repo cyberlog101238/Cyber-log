@@ -1,3 +1,12 @@
+
+<br><div align="center">
+<b>
+
+> WELCOME TO MY GITHUB
+
+</b>
+</div>
+
 <pre>
 MM----------------------------------------------MM
 ||                                              ||
@@ -46,7 +55,4 @@ WW----------------------------------------------WW
 <img alt = "GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Log">  
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Cyber-Log&show_icons=true&theme=radical">
 
-<br><div align="center">
-<b>
 
-> 🥳🥳
