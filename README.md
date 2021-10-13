@@ -42,7 +42,6 @@ MM----------------------------------------------MM
 ||                                              ||
 ||   FB       :       <a href="https://www.facebook.com/al.jabir.543">Link</a>                      ||
 ||   GitHub   :       <a href="https://github.com/Cyber-Log">Link</a>                      ||
-||   Telegram :   +8801834918718                ||
 ||                                              ||
 WW----------------------------------------------WW
 </pre>
